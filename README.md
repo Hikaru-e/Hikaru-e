@@ -39,6 +39,8 @@
 
 - 📫 Reach me at **elakhirioussama1@gmail.com**
 
+---
+
 ###
 
 <h3 align="left">🔧 Programming Languages</h3>
