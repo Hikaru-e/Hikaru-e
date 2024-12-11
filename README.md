@@ -36,13 +36,8 @@
   <img src="https://komarev.com/ghpvc/?username=hikaru-e&label=Profile%20views&color=0e75b6&style=flat" alt="hikaru-e" />
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=HiKaru-e.HiKaru-e&left_text=Profile%20Views"  /> -->
 </div>
-###
 
 - 📫 Reach me at **elakhirioussama1@gmail.com**
-
-###
-
-<img src="https://raw.githubusercontent.com/HiKaru-e/HiKaru-e/output/snake.svg" alt="Snake animation" />
 
 ###
 
