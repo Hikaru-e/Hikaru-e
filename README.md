@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="681" src="https://wallpapercave.com/wp/wp2754931.jpg"  />
+  <img height="540" src="https://wallpapercave.com/wp/wp2754931.jpg"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikaru-e&label=Profile%20views&color=0e75b6&style=flat" alt="hikaru-e" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=hikaru-e&label=Profile%20views&color=0e75b6&style=flat" alt="hikaru-e" />
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=HiKaru-e.HiKaru-e&left_text=Profile%20Views"  /> -->
 </div>
 
@@ -158,7 +158,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HiKaru-e&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=HiKaru-e&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiKaru-e&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 
 ###
