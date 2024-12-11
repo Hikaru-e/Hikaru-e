@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/simoritto" target="blank"><img src="https://img.shields.io/twitter/follow/simoritto?logo=twitter&style=for-the-badge" alt="simoritto" /></a> </p>
 
-- 📫 Reach me at **oussama.el.akhiri.1@gmail.com**
+- 📫 Reach me at **elakhirioussama1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
